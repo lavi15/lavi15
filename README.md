@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hi, I'm JongIn Jang
 
-<!--
-**lavi15/lavi15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Email: biz.jongin@gmail.com
+- Blog: [https://velog.io/@lavi15/posts](https://velog.io/@lavi15/posts)
 
-Here are some ideas to get you started:
+## 사용 기술 🛠
+### Backend
+- Java/Spring
+- MySQL, Oracle, MongoDB
+- Redis, Kafka
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+- HTML5, CSS3(SCSS), JS(ES6), React
+
+### DevOps
+- AWS : EC2, S3, RDS, ECS, Route53, ELB, SNS
+- NaverCloudPlatform
+- Terraform, Jenkins, Docker
+- Nginx
+
+### Tools & Collaboration
+- IntelliJ
+- Git, Sourcetree
+- Jira, Slack
